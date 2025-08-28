@@ -1,4 +1,4 @@
-<!-- 헤더 배너 (원하면 이미지 넣기) -->
+<!-- 헤더 배너 -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5F97F7,100:3869A8&height=200&section=header&text=Welcome%20to%20HoJun's%20GitHub!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
@@ -17,7 +17,26 @@
 ---
 
 ## 🦷 대표 프로젝트: **ToothAI**
-> 환자와 의사를 연결하는 AI 기반 치과 진단 지원 플랫폼  
+> 환자와 의사를 연결하는 AI 기반 치과 진단 지원 플랫폼
+
+<!-- 링크 버튼 모음 -->
+<p align="left">
+  <a href="https://github.com/HoJun-7/ToothAI_DOCS">
+    <img src="https://img.shields.io/badge/Docs-ToothAI_DOCS-3869A8?style=for-the-badge&logo=readme&logoColor=white" />
+  </a>
+  <a href="https://github.com/HoJun-7/25_07_21_Flutter">
+    <img src="https://img.shields.io/badge/Code-Frontend%20(Flutter)-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  </a>
+  <a href="https://github.com/HoJun-7/ToothAI_BACKEND">
+    <img src="https://img.shields.io/badge/Code-Backend%20(Flask)-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  </a>
+  <a href="https://youtu.be/iyhG9KH39nU">
+    <img src="https://img.shields.io/badge/Demo-Patient%20App-5F97F7?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://youtu.be/Mhwuo9oW2wA">
+    <img src="https://img.shields.io/badge/Demo-Doctor%20Web-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
 
 ✨ **Frontend (Flutter)**  
 📱 환자/의사용 앱 · JWT 로그인/회원가입 · Provider & GoRouter 상태 관리  
