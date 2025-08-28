@@ -1,26 +1,36 @@
-# 👋 Hi, I'm **송호준 (HoJun SONG)**  
+<!-- 헤더 배너 (원하면 이미지 넣기) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5F97F7,100:3869A8&height=200&section=header&text=Welcome%20to%20HoJun's%20GitHub!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+# 👋 안녕하세요, 송호준입니다!
 
 💡 *AI 기반 헬스케어 서비스 Full-stack Developer & AI Engineer*  
 임베디드 → AI/IoT → 헬스케어 AI까지 이어지는 경험으로  
 **AI 모델 · 백엔드 · 프론트엔드**를 연결하는 통합형 엔지니어입니다.  
 
-![Profile Views](https://komarev.com/ghpvc/?username=HoJun-7&color=blue)  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HoJun-7&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/HoJun-7?label=Followers&style=social" alt="GitHub Followers"/>
+</p>
+
 ---
 
 ## 🦷 대표 프로젝트: **ToothAI**
 > 환자와 의사를 연결하는 AI 기반 치과 진단 지원 플랫폼  
 
-🔹 **Frontend (Flutter)**  
-&nbsp;&nbsp;📱 모바일·웹 앱 / JWT 로그인·회원가입 / Provider & GoRouter 상태 관리  
+✨ **Frontend (Flutter)**  
+📱 환자/의사용 앱 · JWT 로그인/회원가입 · Provider & GoRouter 상태 관리  
 
-🔹 **Backend (Flask + DB)**  
-&nbsp;&nbsp;⚙️ REST API / MongoDB + MySQL / JWT 인증  
+⚙️ **Backend (Flask + DB)**  
+REST API · MongoDB + MySQL · JWT 인증  
 
-🔹 **AI Models (PyTorch, YOLOv8/v11)**  
-&nbsp;&nbsp;🤖 질환 세그멘테이션, 위생 탐지, 치아 번호 매핑 / JSON & Overlay 결과 생성  
+🤖 **AI Models (PyTorch, YOLOv8/v11)**  
+치과 질환 세그멘테이션 · 위생 탐지 · 치아 번호 매핑  
+Overlay + JSON 결과 생성  
 
-🔹 **추가 기능**  
-&nbsp;&nbsp;💬 Gemini/MedGemma 챗봇 / 🌐 Flutter Web 배포 / 🩺 비대면 진단 신청/취소  
+💬 **추가 기능**  
+Gemini/MedGemma 챗봇 · Flutter Web 배포 · 비대면 진단 신청/응답 워크플로우  
 
 ---
 
@@ -33,27 +43,31 @@
 ---
 
 ## 🛠️ Tech Stack
-**Languages & Frameworks**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) 
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black) 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)  
+<p align="center">
+  <!-- 언어 -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> 
+</p>
 
-**Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) 
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)  
+<p align="center">
+  <!-- DB -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/> 
+</p>
 
-**Tools & Others**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) 
+<p align="center">
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> 
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/> 
+</p>
 
 ---
 
@@ -76,16 +90,29 @@
 ## 🚀 앞으로의 계획
 - ToothAI 프로젝트 오픈소스화 및 문서화  
 - 과거 데이터 분석/AI 프로젝트 아카이빙 (예: 볼린저 밴드 분석)  
-- GitHub를 **개발 포트폴리오 플랫폼**으로 발전  
+- GitHub를 **개인 브랜딩 & 개발 포트폴리오** 플랫폼으로 발전  
 
 ---
 
 ## 📫 Contact
-- 📧 Email: **sa4667@naver.com**  
-- 🐙 GitHub: [HoJun-7](https://github.com/HoJun-7)  
+<p align="center">
+  <a href="mailto:sa4667@naver.com"><img src="https://img.shields.io/badge/Email-5F97F7?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/HoJun-7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
 ---
 
 ## 📊 Stats
-![HoJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoJun-7&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoJun-7&layout=compact&theme=tokyonight)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HoJun-7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HoJun-7&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoJun-7&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+<!-- 푸터 배너 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3869A8,100:5F97F7&height=120&section=footer"/>
+</p>
